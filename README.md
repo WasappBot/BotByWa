@@ -14,7 +14,7 @@ Siapin alat dan bahannya.
 ```
 
 ### Cara Installnya
-Script ini di modifikasi sama saya sendiri Aris187 ID.
+Script ini di modifikasi sama saya sendiri YanBott ID.
 ```bash
 > kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
@@ -65,7 +65,7 @@ Script ini di modifikasi sama saya sendiri Aris187 ID.
 |       ✅       | Donate                           |
 |                   MORE                           |
 
-Ket: Aktiv 24 jam
+Ket: Aktiv Tergantung Paket😊
 
 ## Note
 BOT INI KHUSUS HP/TERMUX DOANG YAH,JIKA MAU RE-UPLOAD CANTUMKAN NAMA SAYA (ARIS187 ID)
