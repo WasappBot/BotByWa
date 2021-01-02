@@ -68,14 +68,14 @@ Script ini di modifikasi sama saya sendiri YanBott ID.
 Ket: Aktiv Tergantung Paket😊
 
 ## Note
-BOT INI KHUSUS HP/TERMUX DOANG YAH,JIKA MAU RE-UPLOAD CANTUMKAN NAMA SAYA (ARIS187 ID)
+BOT INI KHUSUS HP/TERMUX DOANG YAH,JIKA MAU RE-UPLOAD CANTUMKAN NAMA SAYA (YanBoott)
 
 ## WARNING
 Jangan ubah ubah info, Hargai Karya orang lain bro
-jangan cuman modal nama doang
+jangan cuman modal nama doang!!
 
 ## Sosial Media Admin
-* //////
+* Difollow IGnya Ya Kakak
 * [`Instagram Admin`](https://instagram.com/trizlfiardiansyh_)
 * [`WhatsApp Admin `](https://wa.me/+6285765964082)
 ## THANKS TO
