@@ -1,5 +1,5 @@
-# 👾AR15BOT👾
-BOT WHATSAPP TERMUX ONLY BY ARIS187 ID
+# 📗YanBoott
+BOT WHATSAPP TERMUX ONLY BY YanBott ID
 
 ### Alat dan Bahan
 Siapin alat dan bahannya.
@@ -75,12 +75,7 @@ Jangan ubah ubah info, Hargai Karya orang lain bro
 jangan cuman modal nama doang
 
 ## Sosial Media Admin
-* [`Youtube Admin`](https://www.youtube.com/channel/UCGYLWtyT9IADYNUiK0uZiGg)
-* [`Instagram Admin`](https://instagram.com/_sadboy.ig)
-* [`WhatsApp Admin `](https://wa.me/+6285722553839)
+* //////
+* [`Instagram Admin`](https://instagram.com/trizlfiardiansyh_)
+* [`WhatsApp Admin `](https://wa.me/+6285765964082)
 ## THANKS TO
-* [`fdciabdul`](https://github.com/fdciabdul/termux-whatsapp-bot)
-
-* [`ArugaZ`](https://github.com/ArugaZ/whatsapp-bot)
-* [`MhankBarBar`](https://github.com/MhankBarBar/whatsapp-bot)
-* [`Alfbot`](https://github.com/alfiansx/alfbot)
